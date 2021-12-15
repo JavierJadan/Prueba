@@ -26,3 +26,52 @@ body {
     transform: translate(-50%, -50%);
     color: white;
   }
+
+  .container-sized{
+      width: 100%;
+      margin: auto;
+      height: 500px;
+      background-color: #98f5e1;
+      float: left;
+    }
+    
+    .card-one{
+        margin-right: 140px;
+        margin-top: 150px;
+        width: 250px;
+        height: 250px;
+        background-color: #013a63;
+        float: right;
+        
+        
+    }
+    .card-two{
+        width: 250px;
+        height: 250px;
+        background-color: #ee6c4d;
+        float: right;
+        margin-right: 150px;
+        margin-top: 150px;
+        
+    }
+    .card-three{
+        width: 250px;
+        height: 250px;
+        background-color: #bc4749;
+        float: right;
+        margin-right: 150px;
+        margin-top: 150px;
+        
+        
+  }
+  .image-card{
+    width: 550px;
+    margin: 150px;
+    
+}
+.container-text{
+    margin-top: 250px;
+    margin-right: 200px;
+    width: 250px;
+    float: right;
+}
